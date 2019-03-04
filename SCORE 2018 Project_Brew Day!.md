@@ -35,26 +35,3 @@ The choice of the development platform, including tools and programming language
 ## Process Requirements
 
 Teams can use any development process~~, although agile methodologies are suggested~~. All project artifacts must be hosted on a public repository with issue tracking facilities (e.g., GitHub). No particular methodology enforcing sufficient testing is suggested, but the project's functionalities must be thoroughly tested (at least, (near to) full statement coverage), and tests must be systematized using suitable unit testing libraries.
-
-~~In order to track the project's activity and progress, the following rules should be followed:
-
-~~*   For each major set of development tasks, a milestone characterising them must be defined.
-*   For each development task, an issue describing it must be defined, within the corresponding milestone.
-~~*   Task granularity is up to the teams. For larger teams a small granularity is better (work units may be method implementations, method documentation/contract provision, unit tests for methods, etc.).
-*   Prior to creating a new issue, users must check if the same issue has been previously created (important for large teams) to avoid work redundancy.
-~~*   The use of branches for working on partial solutions or larger issues is recommended.
-*   All users must make sure their partial solutions do not break the system (tests that passed before must still pass, project must compile, etc.).
-
-~~## Environmental Constraints
-
-~~None.
-
-~~## Level of Sponsor Involvement
-
-~~The sponsor of this project will accept questions about the project topic at any time. As questions arise during development, these will be gathered and made available in the FAQ section, to help developers.
-
-~~Sponsor contact: naguirre (at) dc (dot) exa (dot) unrc (dot) edu (dot) ar
-
-~~## Project Restrictions
-
-~~None.
