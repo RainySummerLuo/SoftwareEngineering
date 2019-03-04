@@ -30,37 +30,31 @@ Besides these more traditional features of Brew Day!, the application maintains 
 
 The project must implement the features described above, i.e., creation, modification and deletion of recipes, creation of recipe instances (brews), support for notes on brews, and keeping track of available ingredients. The "what should I brew today?" is a mandatory feature. Optionally, developers may choose to allow ingredients availability manually, as opposed to do it automatically from brews information.
 
-The choice of the development platform, including tools and programming languages to use, is left to the teams. The application may be desktop-based, web-based or even tailored for portable devices. Besides the development of the software, teams must provide accompanying documentation, including a requirements document, a design document, and a brief user manual (installation and usage of the application).
+The choice of the development platform, including tools and programming languages to use, is left to the teams. The application may be desktop-based~~, web-based or even tailored for portable devices~~. Besides the development of the software, teams must provide accompanying documentation, including a requirements document, a design document, and a brief user manual (installation and usage of the application).
 
 ## Process Requirements
 
-Teams can use any development process, although agile methodologies are suggested. All project artifacts must be hosted on a public repository with issue tracking facilities (e.g., GitHub). No particular methodology enforcing sufficient testing is suggested, but the project's functionalities must be thoroughly tested (at least, (near to) full statement coverage), and tests must be systematized using suitable unit testing libraries.
+Teams can use any development process~~, although agile methodologies are suggested~~. All project artifacts must be hosted on a public repository with issue tracking facilities (e.g., GitHub). No particular methodology enforcing sufficient testing is suggested, but the project's functionalities must be thoroughly tested (at least, (near to) full statement coverage), and tests must be systematized using suitable unit testing libraries.
 
-In order to track the project's activity and progress, the following rules should be followed:
+~~In order to track the project's activity and progress, the following rules should be followed:
 
-*   For each major set of development tasks, a milestone characterising them must be defined.
+~~*   For each major set of development tasks, a milestone characterising them must be defined.
 *   For each development task, an issue describing it must be defined, within the corresponding milestone.
-*   Task granularity is up to the teams. For larger teams a small granularity is better (work units may be method implementations, method documentation/contract provision, unit tests for methods, etc.).
+~~*   Task granularity is up to the teams. For larger teams a small granularity is better (work units may be method implementations, method documentation/contract provision, unit tests for methods, etc.).
 *   Prior to creating a new issue, users must check if the same issue has been previously created (important for large teams) to avoid work redundancy.
-*   The use of branches for working on partial solutions or larger issues is recommended.
+~~*   The use of branches for working on partial solutions or larger issues is recommended.
 *   All users must make sure their partial solutions do not break the system (tests that passed before must still pass, project must compile, etc.).
 
-## Environmental Constraints
+~~## Environmental Constraints
 
-None.
+~~None.
 
-## Level of Sponsor Involvement
+~~## Level of Sponsor Involvement
 
-The sponsor of this project will accept questions about the project topic at any time. As questions arise during development, these will be gathered and made available in the FAQ section, to help developers.
+~~The sponsor of this project will accept questions about the project topic at any time. As questions arise during development, these will be gathered and made available in the FAQ section, to help developers.
 
-Sponsor contact: naguirre (at) dc (dot) exa (dot) unrc (dot) edu (dot) ar
+~~Sponsor contact: naguirre (at) dc (dot) exa (dot) unrc (dot) edu (dot) ar
 
-## Project Restrictions
+~~## Project Restrictions
 
-None.
-
-* * *
-
-## Project FAQ
-
-Answers to selected questions will appear here.
+~~None.
