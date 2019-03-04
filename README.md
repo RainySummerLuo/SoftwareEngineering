@@ -4,4 +4,4 @@
 [Cerf](https://github.com/comp3053/Cerf)
 
 ## Project
-[Brew Day!](SoftwareEngineering/SCORE 2018 Project_Brew Day!.md)
+[Brew Day!](/SCORE%202018%20Project_Brew%20Day!.md)
